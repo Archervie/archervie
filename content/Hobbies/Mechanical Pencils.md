@@ -6,10 +6,10 @@ I still think the pencil is superior to the pen. While I love pens, don't get me
 # My Collection
 Here is my collection as of February of 2026:
 Model Name | Lead Size | Color | Notes
-- Tombow Zoom 505 | 0.5 mm | Blue | Originally had black, no clue where it went
-- rOtring 600 | 0.5 mm | Black
-- Pentel Graphgear 500 | 0.5 mm | Black
-- Pentel Graphgear 1000 | 0.5 mm | Black | Recently broke, need to rebuy
+- [[https://www.jetpens.com/Tombow-Zoom-505-Mechanical-Pencil-0.5-mm-Azure-Blue/pd/13464| Tombow Zoom 505]] | 0.5 mm | Blue | Originally had black, no clue where it went
+- [[https://www.rotring.com/pens-pencils/mechanical-pencils/rotring-600/SAP_2204409.html| rOtring 600]] | 0.5 mm | Black
+- [[https://www.pentel.com/products/graph-gear-500-mechanical-drafting-pencil?variant=9084767010863| Pentel Graphgear 500]] | 0.5 mm | Black
+- [[Pentel Graphgear 1000]] | 0.5 mm | Black | Recently broke, need to rebuy
 - Pentel Sharp Kerry | 0.5 mm | Red
 - Pentel P205 | 0.5 mm | Black
 - Pentel P207 | 0.7 mm | Silver
