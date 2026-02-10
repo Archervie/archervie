@@ -12,7 +12,8 @@ This site is built using Quartz, meaning the way to navigate the site is like na
 # About Me
 As I said already (and you probably already know this), but I'm Dylan. Online, I go by various usernames, though most of them fall under archervie, a5v, archerv, archlvi, or some other derivative of those. 
 
-**Interests**
+**Interests** 
+
 My main interests lies in STEM, most particularly in the realm of computer science and mathematics. As of writing this (1 February 2026), I am in my final semester of my Computer Science BS program! That said, most of the STEM topics I talk about will fall under those categories, though I do also hold a big interest in other STEM and non-STEM fields such as physics, engineering, psychology, anatomy, literature, philosophy, and more. It's best to describe me as somewhat of a polymath.
 
 On the computer science side of things, I am highly focused on cybersecurity with a keen interest on figuring out how things work, both high level and low level. I am deeply passionate about the intersection of the various subfields in both software development and IT; from Python development to networking protocols to computer architecture. 
