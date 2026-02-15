@@ -14,3 +14,6 @@ Outside STEM, I am also pretty interested in the humanities. I am a huge enjoyer
 
 ## Hobbies
 Some of my more general hobbies include collecting figures, collecting and building Gunpla model kits, collecting mechanical pencils, playing games, listening to various genres of music, tinkering around with computers, going down rabbit holes of any kind, watching/reading anime and manga (and books!), and just chilling in general.
+
+If you're a fan of or are interested in anything I've listed, don't hesitate to let me know, I love talking about these kinds of things!
+
